@@ -1,0 +1,14 @@
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\bin\Debug\net8.0\domashno29.04.exe
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\bin\Debug\net8.0\domashno29.04.deps.json
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\bin\Debug\net8.0\domashno29.04.runtimeconfig.json
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\bin\Debug\net8.0\domashno29.04.dll
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\bin\Debug\net8.0\domashno29.04.pdb
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\domashno29.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\domashno29.04.AssemblyInfoInputs.cache
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\domashno29.04.AssemblyInfo.cs
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\domashno29.04.csproj.CoreCompileInputs.cache
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\domashno29.04.dll
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\refint\domashno29.04.dll
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\domashno29.04.pdb
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\domashno29.04.genruntimeconfig.cache
+C:\Users\avram\Desktop\c#\domashno29.04\domashno29.04\obj\Debug\net8.0\ref\domashno29.04.dll
